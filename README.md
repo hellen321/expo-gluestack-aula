@@ -1,0 +1,2 @@
+# expo-gluestack-aula
+sla
